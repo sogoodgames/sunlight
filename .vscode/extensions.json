@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "nathanridley.autotrim",
+    "ms-vscode.csharp",
+    "naumovs.color-highlight",
+    "unity.unity-debug",
+    "cadenas.vscode-glsllint",
+    "slevesque.shader",
+    "laurenttreguier.vscode-simple-icons",
+    "wayou.vscode-todo-highlight",
+  ],
+}
